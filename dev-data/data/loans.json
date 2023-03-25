@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "customerName": "Mike",
+    "phoneNumber": "12345678911",
+    "address": "542 Geneva Street",
+    "loanAmount": "10000",
+    "interest": "4.52",
+    "loanTermYears": "5",
+    "loanType": "car",
+    "description": "Mike's loan"
+  },
+  {
+    "id": 2,
+    "customerName": "Natalie",
+    "phoneNumber": "12108316830",
+    "address": "848 Cinnamon Lane",
+    "loanAmount": "2000",
+    "interest": "1.63",
+    "loanTermYears": "2",
+    "loanType": "personal",
+    "description": "Natalie's loan"
+  },
+  {
+    "id": 3,
+    "customerName": "Amanda",
+    "phoneNumber": "12678637733",
+    "address": "83773 Linda Street",
+    "loanAmount": "25000",
+    "interest": "3.00",
+    "loanTermYears": "10",
+    "loanType": "business",
+    "description": "Natalie's loan"
+  },
+  {
+    "id": 4,
+    "customerName": "Jin",
+    "phoneNumber": "14106000371",
+    "address": "2003 Pooh Bear Lane",
+    "loanAmount": "350000",
+    "interest": "2.43",
+    "loanTermYears": "30",
+    "loanType": "house",
+    "description": "Jin's loan"
+  },
+  {
+    "id": 5,
+    "customerName": "Sahar",
+    "phoneNumber": "18647215991",
+    "address": "999 Tiger Road",
+    "loanAmount": "9350",
+    "interest": "5.61",
+    "loanTermYears": "5",
+    "loanType": "school",
+    "description": "Sahar's loan"
+  },
+  {
+    "id": 6,
+    "customerName": "Darius",
+    "phoneNumber": "18434947507",
+    "address": "6322 Disney Street",
+    "loanAmount": "75000",
+    "interest": "2.69",
+    "loanTermYears": "12",
+    "loanType": "personal",
+    "description": "Darius's loan"
+  }
+]
